@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown ugo vincent :staff 
+sudo chown ls -a  vincent :staff 
