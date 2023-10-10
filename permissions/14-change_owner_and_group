@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo --from ls -a  vincent :staff 
+sudo --from ls -a vincent:staff
