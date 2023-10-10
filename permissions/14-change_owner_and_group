@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown ls -a  vincent :staff 
+sudo chown --from ls -a  vincent :staff 
