@@ -1,0 +1,2 @@
+#!/bin/bash
+files tail n+10 holbertonschool-shell/io_redirections_and_filters
