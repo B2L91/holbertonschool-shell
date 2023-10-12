@@ -1,2 +1,2 @@
 #!/bin/bash
-files tail n+10 holbertonschool-shell/io_redirections_and_filters
+find /holbertonschool-shell/io_redirections_and_filters -type f -exec ls -t10 {} + | tail 10
