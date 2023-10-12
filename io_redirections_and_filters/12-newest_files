@@ -1,2 +1,2 @@
 #!/bin/bash
-find /holbertonschool-shell/io_redirections_and_filters -type f -exec ls -t10 {} + | tail 10
+ls -lt | head
