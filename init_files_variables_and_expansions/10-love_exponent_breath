@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "BREATH or LOVE environment variable is not set."
+expr $BREATH / $LOVE
