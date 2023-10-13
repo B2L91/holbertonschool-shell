@@ -1,2 +1,2 @@
 #!/bin/bash
-o -e "Nom d'utilisateur\tRépertoire personnel"
+ls --sort
