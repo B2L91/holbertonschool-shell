@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Decimal representation of $binary_number is: $decimal_number"
+echo $((2#$BINARY))
