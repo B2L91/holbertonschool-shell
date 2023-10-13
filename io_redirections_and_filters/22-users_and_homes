@@ -1,2 +1,2 @@
 #!/bin/bash
-list_users_and_home.sh
+ls list_users_and_home.sh
