@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello user  $currentLinux _user!"
+echo "Hello $(whoami)!"
