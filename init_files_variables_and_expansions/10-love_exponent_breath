@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Result of BREATH ^ LOVE: $result"
+echo "BREATH or LOVE environment variable is not set."
