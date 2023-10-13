@@ -1,2 +1,2 @@
 #!/bin/bash
-ls list_users_and_home.sh
+echo -e /etc/passwd
