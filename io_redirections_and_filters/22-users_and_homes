@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --sort
+list_users_and_home.sh
