@@ -1,2 +1,2 @@
 #!/bin/bash
-count "Number of directories in PATH: $num_dirs"
+tree -f PATH
