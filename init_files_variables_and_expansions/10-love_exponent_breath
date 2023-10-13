@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Result of BREATH ^ LOVE: $result"
+echo "${BREATH} to the power ${LOVE} is `expr ${BREATH} \* ${LOVE}`"
