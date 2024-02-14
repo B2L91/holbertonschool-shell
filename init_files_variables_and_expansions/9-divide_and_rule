@@ -1,2 +1,2 @@
 #!/bin/bash
-import os; print(int(os.getenv("POWER")) / int(os.getenv("DIVIDE")))
+echo "$POWER/$DIVIDE"
